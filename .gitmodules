@@ -3,4 +3,4 @@
 	url = ./orthogonal-knapsack/
 [submodule "replit-vscode-revived"]
 	path = replit-vscode-revived
-	url = ./replit-vscode-revived/
+	url = https://github.com/megatron0000/replit-vscode-revived
