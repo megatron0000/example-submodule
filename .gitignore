@@ -1,0 +1,15 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.config/
+.gitconfig
+.landscape/
+.motd_shown
+.npm/
+.profile
+.sudo_as_admin_successful
+.vscode-server/
+.wget-hsts
+MC++/
+cpptools-linux.vsix

@@ -1,0 +1,6 @@
+[submodule "orthogonal-knapsack"]
+	path = orthogonal-knapsack
+	url = ./orthogonal-knapsack/
+[submodule "replit-vscode-revived"]
+	path = replit-vscode-revived
+	url = ./replit-vscode-revived/
